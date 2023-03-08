@@ -1,0 +1,8 @@
+php my admin e v p confit stesso nome
+
+database si chiama wordpress
+
+da un lato database
+dentro c xampp htocs
+
+localhost/htdocs
