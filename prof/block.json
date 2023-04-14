@@ -1,0 +1,8 @@
+{
+    "apiVersion": 2,
+    "title": "Example: Basic",
+    "name": "imm-examples/example-01-basic",
+    "category": "immaginificio",
+    "icon": "universal-access-alt",
+    "editorScript": "file:./block.js"
+}

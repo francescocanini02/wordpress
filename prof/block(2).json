@@ -1,0 +1,23 @@
+{
+	"apiVersion": 2,
+	"name": "imm-examples/example-03-editable",
+	"title": "Example: Editable",
+	"icon": "universal-access-alt",
+	"category": "immaginificio",
+	"textdomain": "imm-examples",
+	"attributes": {
+		"content": {
+			"type": "string",
+			"source": "html",
+			"selector": "p"
+		}
+	},
+	"example": {
+		"attributes": {
+			"content": "Ciao mondo"
+		}
+	},
+	"editorScript": "file:./block.js",
+	"editorStyle": "file:./editor.css",
+	"style": "file:./style.css"
+}
