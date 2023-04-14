@@ -1,0 +1,4 @@
+.wpcf7-form-control:not(.wpcf7-submit, .wpcf7-acceptance) {
+    background-color: var(--wp--preset--color--base);
+    font-family: inherit;
+}
